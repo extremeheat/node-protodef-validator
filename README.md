@@ -119,3 +119,6 @@ throws an exception if the protocol isn't correct
 ### 1.0.0
 
 * can validate types and protocols
+
+### 1.4.0
+* Update ProtoDef
